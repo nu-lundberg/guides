@@ -1,3 +1,7 @@
+layout: page
+title: "TESTAR"
+permalink: /step_two
+
 Yes, you can easily render Markdown on GitHub Pages.
 
 GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files directly from a repository on GitHub, optionally processes them through a build process, and publishes a website. 
