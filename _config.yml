@@ -8,3 +8,10 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+
+navbar-links:
+  Home: "index"
+  Konceptet Dependency Injection: "dependency_injection_level1"
+  Dependency Injection Azure Functions: "dependency_injection_level1_af"
+  DRY: "dry"
+  Steg 2: "step_two"
