@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 title: Junior for firedev
 description: Quick guides and explanations for junior developers
 domain: junior.firedev.se       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
