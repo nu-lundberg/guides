@@ -1,4 +1,4 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: Bilal2453/cayman-docs
 title: Junior @firedev.se
 description: Quick guides and explanations for junior developers
 domain: junior.firedev.se       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
@@ -9,9 +9,20 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 
-navbar-links:
-  Home: "index"
-  Konceptet Dependency Injection: "dependency_injection_level1"
-  Dependency Injection Azure Functions: "dependency_injection_level1_af"
-  DRY: "dry"
-  Steg 2: "step_two"
+# navigation:
+#   - text: Home
+#     url: index
+#   - text: Konceptet Dependency Injection
+#     url: dependency_injection_level1
+#   - text: Dependency Injection Azure Functions
+#     url: dependency_injection_level1_af
+#   - text: DRY
+#     url: dry
+#   - text: Steg 2
+#     url: step_two
+# # navbar-links:
+# #   Home: "index"
+# #   Konceptet Dependency Injection: "dependency_injection_level1"
+# #   Dependency Injection Azure Functions: "dependency_injection_level1_af"
+# #   DRY: "dry"
+# #   Steg 2: "step_two"
